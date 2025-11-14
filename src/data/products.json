@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Standard Hoodie",
+    "price": 240,
+    "category": "Hoodies",
+    "image": "https://images.unsplash.com/photo-1685354218016-3899c9ef79ad?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1227"
+  },
+  {
+    "id": 2,
+    "name": "Standard Sweatpants",
+    "price": 210,
+    "category": "Sweats",
+    "image": "https://images.unsplash.com/photo-1580906853305-5702e648164e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2274"
+  },
+  {
+    "id": 3,
+    "name": "Dad Hat",
+    "price": 70,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2670"
+  },
+  {
+    "id": 4,
+    "name": "Logo Tee",
+    "price": 90,
+    "category": "T-Shirts",
+    "image": "https://images.unsplash.com/photo-1641278859016-194b40d7230c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1760"
+  },
+  {
+    "id": 5,
+    "name": "Silver Chain Necklace",
+    "price": 120,
+    "category": "Jewelry",
+    "image": "https://images.unsplash.com/photo-1676329945867-01c9975aa9d1?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=3556"
+  }
+]
