@@ -30,10 +30,6 @@ button {
     color: Canvas;
   }
 
-  &.favourite {
-    filter: drop-shadow(0 0 2px #e3534f);
-  }
-
   &:hover {
     scale: 1.05;
   }
@@ -63,6 +59,10 @@ button {
     button {
       background-color: transparent;
       filter: brightness(150%);
+
+      &.favourite {
+        filter: drop-shadow(0 0 2px #e3534f);
+      }
     }
   }
 
