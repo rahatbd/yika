@@ -1,8 +1,7 @@
 {
     "name": "yika",
-    "homepage": "https://rahatbd.github.io/yika",
+    "homepage": "https://rahatbd.github.io/yika/",
     "private": true,
-    "version": "0.0.0",
     "type": "module",
     "scripts": {
         "dev": "vite",
